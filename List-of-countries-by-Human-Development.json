@@ -35,5 +35,5 @@
         {"country":"Rwanda"},{"country":"Angola"},{"country":"Benin"},{"country":"Malawi"},{"country":"Zambia"},{"country":"Côte d'Ivoire"},
         {"country":"Burundi"},{"country":"Democratic Republic of the Congo[4]"},{"country":"Ethiopia"},{"country":"Chad"},{"country":"Central African Republic"},
         {"country":"Mozambique"},{"country":"Mali"},{"country":"Niger"},{"country":"Guinea-Bissau"},{"country":"Burkina Faso"},{"country":"Sierra Leone"}],
-    "Not calculated":[{"country":"Republic of China (Taiwan)"},{ "country":"Macau"},{"country":"Montenegro"},{"country":"Serbia"}]
+    "notCalculated":[{"country":"Republic of China (Taiwan)"},{ "country":"Macau"},{"country":"Montenegro"},{"country":"Serbia"}]
 }
